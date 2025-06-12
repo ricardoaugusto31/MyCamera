@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">885586991581</string>
+    <string name="google_api_key" translatable="false">AIzaSyCMc-Mrk0lY5aU7CzDUraU9qIdnRUR8AY4</string>
+    <string name="google_app_id" translatable="false">1:885586991581:android:9ea8deafee870533943e34</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCMc-Mrk0lY5aU7CzDUraU9qIdnRUR8AY4</string>
+    <string name="google_storage_bucket" translatable="false">mycamera-88395.firebasestorage.app</string>
+    <string name="project_id" translatable="false">mycamera-88395</string>
+</resources>
